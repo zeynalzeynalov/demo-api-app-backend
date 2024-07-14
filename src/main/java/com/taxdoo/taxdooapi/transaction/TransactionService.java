@@ -1,11 +1,8 @@
 package com.taxdoo.taxdooapi.transaction;
 
-import com.taxdoo.taxdooapi.address.Address;
 import com.taxdoo.taxdooapi.datagenerator.DataGenerator;
-import com.taxdoo.taxdooapi.reference.Reference;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
-import ma.glasnost.orika.MapperFacade;
 import org.springframework.stereotype.Component;
 
 /**
@@ -17,8 +14,6 @@ import org.springframework.stereotype.Component;
 public class TransactionService {
 
     private final TransactionRepository transactionRepository;
-
-    private final MapperFacade mapperFacade;
 
     public Transaction createTransaction(TransactionCreateRequest request) {
 
