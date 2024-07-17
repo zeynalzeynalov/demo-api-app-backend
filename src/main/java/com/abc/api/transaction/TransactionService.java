@@ -1,6 +1,6 @@
-package com.taxdoo.taxdooapi.transaction;
+package com.abc.api.transaction;
 
-import com.taxdoo.taxdooapi.datagenerator.DataGenerator;
+import com.abc.api.datagenerator.DataGenerator;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Component;

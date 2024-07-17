@@ -20,7 +20,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      DB_DATABASE: db_taxdoo
+      DB_DATABASE: db_abc
       DB_USER: root
       DB_PASSWORD: root
       MYSQL_ROOT_PASSWORD: rootPass

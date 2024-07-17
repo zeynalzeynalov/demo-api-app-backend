@@ -1,10 +1,10 @@
-package com.taxdoo.taxdooapi;
+package com.abc.api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TaxdooApiApplicationTests {
+class ApiApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,4 +1,4 @@
-package com.taxdoo.taxdooapi.transaction;
+package com.abc.api.transaction;
 
 import org.springframework.data.repository.CrudRepository;
 

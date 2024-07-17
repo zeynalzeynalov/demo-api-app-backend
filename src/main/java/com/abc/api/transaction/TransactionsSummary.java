@@ -1,4 +1,4 @@
-package com.taxdoo.taxdooapi.transaction;
+package com.abc.api.transaction;
 
 import java.math.BigDecimal;
 import lombok.AllArgsConstructor;

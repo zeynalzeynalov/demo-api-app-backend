@@ -1,12 +1,9 @@
-package com.taxdoo.taxdooapi.datagenerator;
+package com.abc.api.datagenerator;
 
 import com.github.javafaker.Faker;
-import com.taxdoo.taxdooapi.address.Address;
-import com.taxdoo.taxdooapi.reference.Reference;
-import com.taxdoo.taxdooapi.transaction.Transaction;
-
-import java.sql.Ref;
-import java.util.Locale;
+import com.abc.api.address.Address;
+import com.abc.api.reference.Reference;
+import com.abc.api.transaction.Transaction;
 
 public class DataGenerator {
 

@@ -1,7 +1,7 @@
-package com.taxdoo.taxdooapi.reference;
+package com.abc.api.reference;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
-import com.taxdoo.taxdooapi.transaction.Transaction;
+import com.abc.api.transaction.Transaction;
 import lombok.Data;
 import org.hibernate.annotations.LazyCollection;
 import org.hibernate.annotations.LazyCollectionOption;

@@ -1,10 +1,10 @@
 FROM adoptopenjdk/openjdk11:latest
 
-LABEL base.name="taxdooapiwithjava"
+LABEL base.name="apiwithjava"
 
 EXPOSE 8090
 
-ARG JAR_FILE=target/TaxdooAPI-0.0.1-SNAPSHOT.jar
+ARG JAR_FILE=target/API-0.0.1-SNAPSHOT.jar
 
 ADD ${JAR_FILE} app.jar
 

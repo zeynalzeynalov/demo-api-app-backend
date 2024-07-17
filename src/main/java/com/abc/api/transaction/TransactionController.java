@@ -1,4 +1,4 @@
-package com.taxdoo.taxdooapi.transaction;
+package com.abc.api.transaction;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

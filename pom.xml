@@ -8,11 +8,11 @@
         <version>2.4.4</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.taxdoo</groupId>
-    <artifactId>TaxdooAPI</artifactId>
+    <groupId>com.abc</groupId>
+    <artifactId>API</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>TaxdooAPI</name>
-    <description>Demo project for TaxdooAPI</description>
+    <name>API</name>
+    <description>Demo project for API</description>
 
     <properties>
         <java.version>11</java.version>

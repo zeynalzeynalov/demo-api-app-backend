@@ -1,4 +1,4 @@
-package com.taxdoo.taxdooapi.api;
+package com.abc.api.api;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
@@ -14,6 +14,6 @@ public class ApiCheckController {
     @GetMapping
     public ResponseEntity checkApi() {
 
-        return ResponseEntity.ok("TaxdooApiApplication API is active.");
+        return ResponseEntity.ok("ApiApplication API is active.");
     }
 }

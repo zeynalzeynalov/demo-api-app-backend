@@ -1,10 +1,10 @@
-package com.taxdoo.taxdooapi.transaction;
+package com.abc.api.transaction;
 
 import java.util.Date;
 
+import com.abc.api.address.Address;
+import com.abc.api.reference.Reference;
 import com.fasterxml.jackson.annotation.JsonIgnore;
-import com.taxdoo.taxdooapi.address.Address;
-import com.taxdoo.taxdooapi.reference.Reference;
 import lombok.Data;
 import org.springframework.data.annotation.CreatedDate;
 
