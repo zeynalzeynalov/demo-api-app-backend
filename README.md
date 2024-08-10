@@ -1,4 +1,4 @@
-# APIWithJava
+# API with Java
 
 building docker image:
 
